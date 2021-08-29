@@ -1,0 +1,4 @@
+terraform/.terraform
+terraform/*.backup
+terraform/*.lock.*
+terraform/terraform.tfstate
